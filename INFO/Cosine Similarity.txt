@@ -1,0 +1,2 @@
+Cosine similarity is a measure of similarity between two vectors.
+The bigger the return value is, the more similar the two texts are.

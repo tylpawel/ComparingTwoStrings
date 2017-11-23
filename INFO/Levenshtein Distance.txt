@@ -1,0 +1,4 @@
+Levenshtein distance (edit distance) is a string metric for measuring for the difference between two sequences.
+Levenshtein distance is the minimum number of sigle-character edits required to change on word into the other (using insertion, deletion, subtitution)
+The bigger the return value is, the less similar the two texts are (more edits -> more different)
+Insertion, deletion and substitution each costs 1 edit.
